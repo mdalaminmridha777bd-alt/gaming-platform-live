@@ -1,0 +1,1 @@
+// Firebase JS config placeholder

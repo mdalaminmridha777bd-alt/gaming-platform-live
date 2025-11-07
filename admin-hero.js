@@ -1,0 +1,1 @@
+// admin-hero.js placeholder
